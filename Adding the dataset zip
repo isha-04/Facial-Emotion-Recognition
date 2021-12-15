@@ -1,0 +1,5 @@
+As the dataset is extremely large, we had uploaded the zipped folder to a Google Drive with the path "/content/drive/MyDrive/facialemotion.zip" (The zip was uploaded directly to the drive. No folder was specifically created)
+
+For the variable files created using the 'pickle' library, a folder "SML_Project_Variables" was created in Google Drive. All variable files were saved here.
+
+For the files created using the 'joblib' library (for models fitted on the training data), a folder "SML_Project_Models" was created in Google Drive. All files created for the models were saved here.
