@@ -1,4 +1,4 @@
-# Facial-Emotion-Recognition
+# Facial Emotion Recognition
 
 Facial emotion recognition is the process of detecting human emotions from facial expressions. Over the last years, face recognition and automatic analysis of facial expressions has one of the most challenging research areas in the field of Computer vision and has received a special importance. Facial Expression recognition is an important technique and has drawn the attention of many researchers due to its varying applications such in security systems, medical systems, entertainment by utilizing them in Human Computer Interaction (HCI), Emotion analysis, psychological area, virtual reality, videoconferencing, indexing and retrieval of image and video database, image understanding and synthetic face animation. 
 
