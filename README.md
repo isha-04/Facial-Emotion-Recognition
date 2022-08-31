@@ -8,6 +8,6 @@ Using various models like Decision Tree, Random Forest, kNN, Gaussian Naïve Bay
 Link to dataset: https://www.kaggle.com/apollo2506/facial-recognition-dataset
 
 
-Created in collaboration with:
-Bala Sirisha Sripathi Panditharadhyula
+Created in collaboration with:<br/>
+Bala Sirisha Sripathi Panditharadhyula<br/>
 Amulya Gupta Vangapalli
